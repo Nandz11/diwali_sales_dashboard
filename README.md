@@ -3,7 +3,7 @@
 An interactive dashboard analyzing customer buying behavior during Diwali festival.
 
 ## Live Demo
-(add Streamlit link here after deployment)
+https://diwalisalesdashboard-ltfx7tgbdjzsp3aje45kv3.streamlit.app/
 
 ## What it does
 - Analyzes 11,239 customer transactions during Diwali
