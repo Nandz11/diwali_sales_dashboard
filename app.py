@@ -16,7 +16,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load data
-df = pd.read_csv(r'C:\Users\91744\OneDrive\Desktop\Diwali_sales\Diwali Sales Data.csv', encoding='latin1')
+df = pd.read_csv('Diwali Sales Data.csv', encoding='latin1')
 df.drop(columns=['Status', 'unnamed1'], inplace=True)
 df.dropna(subset=['Amount'], inplace=True)
 
